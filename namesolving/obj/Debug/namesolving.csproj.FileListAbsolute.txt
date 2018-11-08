@@ -1,0 +1,7 @@
+C:\Users\Rouslan\Source\Repos\namesolving\namesolving\bin\Debug\namesolving.exe.config
+C:\Users\Rouslan\Source\Repos\namesolving\namesolving\bin\Debug\namesolving.exe
+C:\Users\Rouslan\Source\Repos\namesolving\namesolving\bin\Debug\namesolving.pdb
+C:\Users\Rouslan\Source\Repos\namesolving\namesolving\obj\Debug\namesolving.csprojAssemblyReference.cache
+C:\Users\Rouslan\Source\Repos\namesolving\namesolving\obj\Debug\namesolving.csproj.CoreCompileInputs.cache
+C:\Users\Rouslan\Source\Repos\namesolving\namesolving\obj\Debug\namesolving.exe
+C:\Users\Rouslan\Source\Repos\namesolving\namesolving\obj\Debug\namesolving.pdb
